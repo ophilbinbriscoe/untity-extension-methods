@@ -1,5 +1,5 @@
 # Unity Extensions
-Odds and ends that come in handy no matter what kind of project you're working on.
+Various utility extension methods.
 
 ## List Extensions
 Some RNG-based extensions for common gameplay code (getting a random element from a list, shuffling a list, etc.). Also includes a flexible extension for turning a formatting lists as human-readable strings.
