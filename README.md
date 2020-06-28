@@ -17,4 +17,4 @@ Simple queries such as HasComponent<T> if you're tired of null checking.
 A *bunch* of methods for playing with Unity's Rect structs, mostly useful for building custom Editor GUIs using the legacy immediate-mode GUI.
 
 ## MoreGizmos
-Extends gizmo drawing by exposing primitive drawing functions only found in the Handles class to non-editor code.
+Extends gizmo drawing by exposing primitive drawing functions (disc, label), only found in the Handles class to non-editor code.
