@@ -1,5 +1,5 @@
 # Unity Extensions
-Various utility functionality, implemented as C# extension methods.
+Various utilities, implemented as C# extension methods.
 
 ## List Extensions
 Some RNG-based extensions for common gameplay code (getting a random element from a list, shuffling a list, etc.). Also includes a flexible extension for formatting lists as human-readable strings, similar to python's `String.join()`.
