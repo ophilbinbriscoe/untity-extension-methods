@@ -14,7 +14,7 @@ A couple of extensions that will return a Vector2/3 with one of its components m
 Simple queries such as `HasComponent<T>` if you're tired of null checking.
   
 ## Rect/Event Extensions
-A *bunch* of methods for playing with Unity's Rect structs, mostly useful for building custom Editor GUIs using the legacy immediate-mode GUI.
+Multitude of methods for transforming Unity's Rect structs. Useful for building custom Editor GUIs using the legacy immediate-mode GUI.
 
 ## MoreGizmos
 Extends gizmo drawing by exposing primitive drawing functions (disc, label), only found in the Handles class to non-editor code.
